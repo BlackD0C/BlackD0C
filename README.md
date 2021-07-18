@@ -4,9 +4,9 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/Focus-Containers_&_Microservices%20Security-brightgreen) &emsp;![](https://img.shields.io/badge/Favorite_Languages-PowerShell%20%26%20Python-brightgreen) 
 
 ---
-![](https://raw.githubusercontent.com/BlackD0C/BlackD0C/header.png)
+![](https://github.com/BlackD0C/BlackD0C/blob/main/header.png)
 
-![](https://github.com/BlackD0C/BlackD0C/10.png)
+![](https://github.com/BlackD0C/BlackD0C/blob/main/10.png)
 *** 
 <div align="center">
 	<h3 align="center">Visitor's count :eyes:</h3>
