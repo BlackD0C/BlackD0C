@@ -10,7 +10,7 @@
 *** 
 <div align="center">
 	<h3 align="center">Visitor's count :eyes:</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p> 
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="Visitor's Count" /></p> 
 <br>
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
